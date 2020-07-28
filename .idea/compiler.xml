@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server-db" />
+        <module name="client-demo" />
+        <module name="storm-algorithm-demo" />
+        <module name="dashboard" />
+        <module name="core" />
+        <module name="server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-demo" target="1.8" />
+      <module name="core" target="1.7" />
+      <module name="dashboard" target="1.8" />
+      <module name="microservice-governance" target="1.5" />
+      <module name="server" target="1.8" />
+      <module name="server-db" target="1.7" />
+      <module name="storm-algorithm-demo" target="1.8" />
+      <module name="storm-monitor" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/storm-monitor/client-demo/client-demo.iml" filepath="$PROJECT_DIR$/storm-monitor/client-demo/client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-monitor/core/core.iml" filepath="$PROJECT_DIR$/storm-monitor/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-monitor/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/storm-monitor/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice-governance.iml" filepath="$PROJECT_DIR$/.idea/microservice-governance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-monitor/server/server.iml" filepath="$PROJECT_DIR$/storm-monitor/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-monitor/server-db/server-db.iml" filepath="$PROJECT_DIR$/storm-monitor/server-db/server-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-algorithm-demo/storm-algorithm-demo.iml" filepath="$PROJECT_DIR$/storm-algorithm-demo/storm-algorithm-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-monitor/storm-monitor.iml" filepath="$PROJECT_DIR$/storm-monitor/storm-monitor.iml" />
+    </modules>
+  </component>
+</project>
